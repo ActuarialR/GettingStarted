@@ -22,7 +22,7 @@ Ideas to deal with your IT department:
 -	[An Actuarial Toolkit (2006)](http://toolkit.pbwiki.com/f/GIRO%20Paper%20FINAL.doc)
 
 Conferences:
--	[R in Insurance](www.rininsurance.com) (next event will be 11 July 2016, Cass Business School, London)
+-	[R in Insurance](http://www.rininsurance.com) (next event will be 11 July 2016, Cass Business School, London)
 
 More ambitious ideas, depending on skill level, interest in the group:
 -	Replicate output from research articles in R
