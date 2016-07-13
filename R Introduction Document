@@ -1,0 +1,20 @@
+Hi Everyone, I hope all is well.
+
+Many of you will have seen Terry's email a couple of weeks ago - I would be keen to start working on the R introduction document, building on Nigel De Silva's document.
+
+Nigel's document already contains an excellent guide to getting started and some examples of Generalised Linear Models and Linear Regression.
+
+I would like to extend this to include more examples including the topics below:
+1.  Machine Learning
+2.  Simulation and bootstrapping
+3.  Smoothing
+4.  More regression/glm examples and tests
+
+A couple of other ideas to get started (especially if like me you are not an R expert yet!):
+1.  Rumour has it that the institute will potentially be including R as part of the exams. Does anyone have any advice as to who we could contact to see whether material is being produced to help students?
+2.  In relation to 1, could we replicate some past exam questions in R, for example regression questions from CT3? Or Monte Carlo simulation?
+
+Please comment below with your ideas if you are interested in getting involved in this document. This should support Matt's output from research articles in R as well.
+
+Kind regards,
+Sophie
